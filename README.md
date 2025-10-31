@@ -19,4 +19,4 @@ Like to know more of what I did and what I do? Feel free to reach out to me via 
 [![my GitHub](img/github.png)](https://github.com/dueddel)     [![me on Reddit](img/reddit.png)](https://www.reddit.com/user/dueddel/)     [![my itch page](img/itch.png)](https://dueddel.itch.io/)     [![me on ArtStation](img/artstation.png)](https://www.artstation.com/dueddel)     [![me on stack overflow](img/stackoverflow.png)](https://stackoverflow.com/users/3773017/arvid)     [![my XING profile](img/xing.png)](https://www.xing.com/profile/Arvid_Schoenberg)     [![Vierbeuter](img/vierbeuter.png)](https://vierbeuter.de/)
 
 
-![](https://capsule-render.vercel.app/api?section=footer&animation=fadeIn&type=waving&color=10:e65,60:c92814,90:f49a8f,100:e65&height=128&text=☠️)
+![](https://capsule-render.vercel.app/api?section=footer&animation=twinkling&type=waving&color=10:e65,60:c92814,90:f49a8f,100:e65&height=128&text=☠️)
