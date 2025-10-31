@@ -3,9 +3,13 @@
 
 # About me 🥸
 
-I'm a **software and web developer** for more than 20 years based in Hamburg, Germany.
+I'm a professional **software and web developer** for more than 20 years based in Hamburg, Germany.
 
 Though being specialized on server **backend development with PHP** I also love to **build desktop applications** using Godot.
+
+Other than that I am a **husband**, **father** and **cat owner**. 🐈
+
+A few years ago I started to fall in love with **lowpoly 3D modeling**, an awesome hobby which I don't have a lot of free time for recently. Another hobby of mine is **technically analysing and trading** financial assets, crypto currencies to be more precise. 📈
 
 
 ## Let's connect! 💬
