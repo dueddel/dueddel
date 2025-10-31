@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?animation=fade&type=waving&color=0:e65,10:f49a8f,40:c92814,90:e65&height=256&text=☠️ I am Arvid.&fontAlignY=40&fontColor=fafafa&desc=👋 Nice to meet you!&descSize=32&descAlignY=64)
+![](https://capsule-render.vercel.app/api?animation=fade&type=waving&color=0:e65,10:f49a8f,40:c92814,90:e65&height=256&text=☠️%20I%20am%20Arvid.&fontAlignY=40&fontColor=fafafa&desc=👋%20Nice%20to%20meet%20you!&descSize=32&descAlignY=64)
 
 
 # About me 🥸
