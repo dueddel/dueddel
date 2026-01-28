@@ -3,9 +3,9 @@
 
 # About me 🥸
 
-I'm a professional **software and web developer** for more than 20 years based in Hamburg, Germany.
+I'm a professional **software and web developer** for more than 20 years based in Hamburg, Germany. 🇩🇪
 
-Though being specialized in server **backend development with PHP** I also love to **build desktop applications** using Godot.
+Though being specialized in server **backend development with PHP** I also love to **build desktop applications** using Godot. 🤖
 
 Other than that I am a **husband**, **father** and **cat owner**. 🐈
 
